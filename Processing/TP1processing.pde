@@ -14,7 +14,15 @@ void setup() {
   size(500, 500);
   /**Valores iniciales para las coordenadas de la caja*/
   coor = new PVector(0, height/2);
+<<<<<<< HEAD
   //VERSION FINAL SIN EL ERROR
+=======
+  //ERROR
+  //ERROR
+  ESTO ES UN ERROR
+  //ERROR
+  //ERROR
+>>>>>>> 1eb43bdaebe047bc67988a7cd7ebfe39406d06dc
 }
 
 void draw() {
