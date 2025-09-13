@@ -1,6 +1,6 @@
 /**
 *@author: Tolaba Brian Ezequiel
-*
+*  VERSION FINAL SIN EL ERROR
 */
 PVector coor; /**son las cordenas para el obstaculo*/
   
@@ -14,7 +14,7 @@ void setup() {
   size(500, 500);
   /**Valores iniciales para las coordenadas de la caja*/
   coor = new PVector(0, height/2);
-  
+  //VERSION FINAL SIN EL ERROR
 }
 
 void draw() {
